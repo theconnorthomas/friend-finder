@@ -1,0 +1,90 @@
+body {
+    background-image: url("./images/5e1b35dfdc5306be55c083333204c3e0.jpg");
+    background-attachment: fixed;
+   margin: 0px auto; 
+   display: flex;
+   min-height: 100vh;
+   flex-direction: column;
+}
+
+header {
+    height: 100px;
+}
+
+nav {
+    height: 100%;
+}
+
+#hero{
+    height: 600px;
+    background-image: url("./images/15447525447_c7c7dc72ff_b copy.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top;
+    background-size: 1600px 1100px;
+}
+
+#welcome {
+    padding-top: 8em;
+    color: #ffffff;
+    text-align: center;
+}
+
+#welcome h1 {
+    font-family: 'Pacifico', cursive;
+    padding-bottom: .55em;
+    border-bottom: 1px solid;
+}
+
+#welcome p {
+    font-size: 1.5em;
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+    font-size: 2.5em;
+}
+
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.card {
+    margin-top: -100px;
+}
+
+.card .card-title {
+    font-family: 'Pacifico', cursive;
+    font-size: 3.5em;
+}
+
+#logo-icon {
+   margin-left: 50px;
+   margin-top: 20px;
+}
+
+#logo {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+#head-nav-links {
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+.mainpanel{
+   margin: 50px;
+   background-color: #ffffff;
+}
+
+#mainpanel-content {
+    margin: 50px;
+}
+
+footer h1 {
+    color: #ffffff;
+    text-align: center;
+}
+

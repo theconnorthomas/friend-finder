@@ -1,0 +1,43 @@
+body {
+    background-image: url("./images/5e1b35dfdc5306be55c083333204c3e0.jpg");
+    background-attachment: fixed;
+}
+
+#hero{
+    height: 500px;
+    background-image: url("./images/15447525447_c7c7dc72ff_b.jpg");
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-attachment: fixed;
+    background-size: 1500px 900px;
+}
+
+#welcome {
+    padding-top: 8em;
+    color: #ffffff;
+    text-align: center;
+}
+
+.main {
+    padding-top: 4em;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    padding-bottom: .65em;
+    border-bottom: 2px solid;
+}
+
+p {
+    font-size: 2em;
+    font-family: 'Raleway', sans-serif;
+}
+
+span{
+    font-family: 'Pacifico', cursive;
+}
+
+label {
+    font-size: 1.5em;
+    color: #000000;
+}
